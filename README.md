@@ -22,7 +22,7 @@ Installation
 Clone the repository
 sh
 Copy code
-git clone https://github.com/your-username/car-slider-animation.git
+git clone https://github.com/Adithya-1508/Slider-animation.git
 Open the project directory
 sh
 Copy code
@@ -32,21 +32,7 @@ Usage
 Open index.html in your preferred web browser.
 Use the navigation buttons to slide through the car images.
 Optionally, the slider will automatically transition between images if the auto-slide feature is enabled.
-Project Structure
-css
-Copy code
-car-slider-animation/
-├── css/
-│   └── styles.css
-├── images/
-│   ├── car1.jpg
-│   ├── car2.jpg
-│   ├── car3.jpg
-│   └── ...
-├── js/
-│   └── script.js
-├── index.html
-└── README.md
+
 index.html: The main HTML file that includes the structure of the slider.
 css/styles.css: The CSS file for styling the slider and adding animations.
 js/script.js: The JavaScript file for adding functionality to the slider.
@@ -60,15 +46,6 @@ Updating the JavaScript in script.js to adjust the sliding functionality and int
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
 
-Contact
-Your Name - @your-twitter-handle - your-email@example.com
 
-Project Link: https://github.com/your-username/car-slider-animation
+
