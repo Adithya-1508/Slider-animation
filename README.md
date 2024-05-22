@@ -1,5 +1,4 @@
-# Slider-animation
-Slider Animation Project using HTML,CSS and Javascript
+Car Slider Animation Project
 Overview
 This project is a simple car slider animation created using HTML, CSS, and JavaScript. The slider allows users to navigate through a series of car images with smooth transitions. It is designed to be responsive and visually appealing, providing an engaging user experience.
 
@@ -33,3 +32,43 @@ Usage
 Open index.html in your preferred web browser.
 Use the navigation buttons to slide through the car images.
 Optionally, the slider will automatically transition between images if the auto-slide feature is enabled.
+Project Structure
+css
+Copy code
+car-slider-animation/
+├── css/
+│   └── styles.css
+├── images/
+│   ├── car1.jpg
+│   ├── car2.jpg
+│   ├── car3.jpg
+│   └── ...
+├── js/
+│   └── script.js
+├── index.html
+└── README.md
+index.html: The main HTML file that includes the structure of the slider.
+css/styles.css: The CSS file for styling the slider and adding animations.
+js/script.js: The JavaScript file for adding functionality to the slider.
+images/: A directory containing car images used in the slider.
+Customization
+You can customize the slider by:
+
+Adding or removing car images in the images directory and updating the index.html accordingly.
+Modifying the CSS in styles.css to change the appearance and animation effects.
+Updating the JavaScript in script.js to adjust the sliding functionality and interval timing.
+Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+License
+Distributed under the MIT License. See LICENSE for more information.
+
+Contact
+Your Name - @your-twitter-handle - your-email@example.com
+
+Project Link: https://github.com/your-username/car-slider-animation
